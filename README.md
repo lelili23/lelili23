@@ -25,4 +25,4 @@ Feel free to check out [my portfolio](https://person-website-cyan.vercel.app/)!
 
 ## 📫 How to reach me
 - LinkedIn: [https://www.linkedin.com/in/lilian-le-01b576254](https://www.linkedin.com/in/lilian-le-01b576254/)
-- Email: [lilianyenlinhle@gmail.com]
+- Email: lilianyenlinhle@gmail.com
